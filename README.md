@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate Back-End developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Newt Global](http://razorpay.com/)
+- 💼 FrontEnd Engineer at [Newt Global](https://newtglobal.com/)
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
@@ -41,6 +41,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <a href="https://www.linkedin.com/in/chandan-gupta-uc">
   <img align="right" alt="Chandan Gupta | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
+<!-- <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+</a> -->
